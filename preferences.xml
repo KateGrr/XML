@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<FAVOTITE>
+  <FILM>Interstellar</FILM>
+  <TV_SHOWS>
+    <1st>Silicon valley</1st>
+    <2nd>Stranger things</2nd>
+    <3rd>True detective</3rd>
+    <4th>Sherlock</4th>
+    <5th>House, M.D.<5th>
+  </TV_SHOWS>
+  <FOOD>bowl with salmon</FOOD>
+  <SEASON>Summer</SEASON>
+  <COUNTRIES>
+    <1st>Sweden</1st>
+    <2nd>USA</2nd>
+    <3rd>Portugal</3rd>
+    <4th>Slovenia</4th>
+  </COUNTRIES>
+</FAVORITE>
