@@ -2,18 +2,18 @@
 <FAVOTITE>
   <FILM>Interstellar</FILM>
   <TV_SHOWS>
-    <1st>Silicon valley</1st>
-    <2nd>Stranger things</2nd>
-    <3rd>True detective</3rd>
-    <4th>Sherlock</4th>
-    <5th>House, M.D.<5th>
+    <T1>Silicon valley</T1>
+    <T2>Stranger things</T2>
+    <T3>True detective</T3>
+    <T4>Sherlock</T4>
+    <T5h>House, M.D.<5th>
   </TV_SHOWS>
   <FOOD>bowl with salmon</FOOD>
   <SEASON>Summer</SEASON>
   <COUNTRIES>
-    <1st>Sweden</1st>
-    <2nd>USA</2nd>
-    <3rd>Portugal</3rd>
-    <4th>Slovenia</4th>
+    <T1>Sweden</T1>
+    <T2>USA</T2>
+    <T3>Portugal</T3>
+    <T4>Slovenia</T4>
   </COUNTRIES>
 </FAVORITE>
